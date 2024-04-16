@@ -27,7 +27,6 @@ I'm currently working on personal projects.
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img alt="Linux (Debian-based)" src="https://img.shields.io/badge/Linux(Debian--based)-A81D33?style=for-the-badge&logo=linux&logoColor=white" />
 <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/Android-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 * Tools
