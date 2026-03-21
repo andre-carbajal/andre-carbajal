@@ -18,6 +18,7 @@ I'm currently working on personal projects.
 <p>
 <img alt="Java" src="https://img.shields.io/badge/java-ED1D25.svg?&style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%23A97BFF.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/go-007d9c?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="MY SQL" src="https://img.shields.io/badge/my sql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
