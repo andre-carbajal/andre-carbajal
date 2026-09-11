@@ -86,5 +86,4 @@ The ecosystem has more than 3.7M downloads on CurseForge and 3.55M downloads on 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/andre-carbajal-vargas/)
-- [Personal website](https://andre-carbajal.github.io/)
 - Email: andre.carbajal.vargas@gmail.com
